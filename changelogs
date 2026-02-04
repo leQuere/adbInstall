@@ -5,10 +5,26 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ### Added
+- Badge de sponsor GitHub dans le README
 
 ### Changed
 
 ### Fixed
 
 ### Removed
+
+## [1.0.0] - 2026-02-04
+
+### Added
+- Scripts d'installation automatique pour Meta Quest (PowerShell et Bash)
+- Scripts de désinstallation automatique pour Meta Quest (PowerShell et Bash)
+- Détection automatique du fichier APK
+- Détection automatique du nom du package
+- Installation de l'APK sur le Quest
+- Copie automatique des fichiers OBB
+- Barre de progression en temps réel
+- Vérification de la connexion ADB
+- Messages colorés et clairs
+- Documentation complète dans README.md
+- Support multi-plateforme (Windows/Linux)
 
