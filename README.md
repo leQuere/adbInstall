@@ -2,9 +2,10 @@
 
 Script automatisé pour installer des applications APK et leurs fichiers OBB sur votre Meta Quest via ADB.
 
+Si vous aimez ou voulez aider, faites un don:
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/leQuere)
 
-Si vous voulez 
+
 ## 🎯 Fonctionnalités
 
 - ✅ Détection automatique du fichier APK
